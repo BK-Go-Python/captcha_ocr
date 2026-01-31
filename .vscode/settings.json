@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "C:\\ProgramData\\anaconda3\\envs\\ai\\python.exe",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.profiles.windows": {
+        "Command Prompt": {
+            "path": "cmd.exe",
+            "icon": "terminal-cmd"
+        }
+    }
+}
